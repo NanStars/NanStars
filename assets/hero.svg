@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="PΛV — Small tools. More room to create.">
+<title>PΛV — Small tools. More room to create.</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1423"/><stop offset="1" stop-color="#182238"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#477d8b" stop-opacity=".32"/><stop offset="1" stop-color="#477d8b" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#bad7df" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<ellipse cx="988" cy="176" rx="315" ry="250" fill="url(#glow)"/>
+<rect x="52" y="42" width="5" height="24" rx="2" fill="#75e5ce"/>
+<text x="72" y="61" fill="#f0f5fa" font-size="21" font-weight="700" letter-spacing="5">PΛV</text>
+<text x="212" y="59" fill="#8092aa" font-size="11" letter-spacing="3">A PERSONAL CORNER OF THE WEB</text>
+<text x="52" y="158" fill="#f4f7fb" font-size="62" font-weight="700" letter-spacing="-2">Small tools.</text>
+<text x="52" y="231" fill="#b8c5d8" font-size="54" font-weight="500" letter-spacing="-2">More room to create.</text>
+<text x="55" y="278" fill="#8fa3bd" font-size="17">Notes, ideas, and small things made real.</text>
+<path d="M54 320H1146" stroke="#a2bad8" stroke-opacity=".16"/>
+<text x="55" y="351" fill="#89a2bf" font-size="11" letter-spacing="2">PYTHON / WEB / LOCAL-FIRST</text>
+<text x="960" y="351" fill="#a4cabc" font-size="11" letter-spacing="2">WORLDAI.FUN ↗</text>
+<g fill="none" stroke="#79b5bc" stroke-opacity=".26">
+ <ellipse cx="1000" cy="175" rx="129" ry="129"/><ellipse cx="1000" cy="175" rx="77" ry="129" transform="rotate(35 1000 175)"/>
+ <ellipse cx="1000" cy="175" rx="77" ry="129" transform="rotate(-35 1000 175)"/>
+ <path d="m900 95 153 27 36 132-161-19Z"/>
+</g>
+<circle cx="1000" cy="175" r="8" fill="#8ee9d4"/><circle cx="1000" cy="175" r="22" fill="none" stroke="#8ee9d4" stroke-opacity=".22"/>
+<g fill="#b8dcdf"><circle cx="900" cy="95" r="3"/><circle cx="1053" cy="122" r="4"/><circle cx="1089" cy="254" r="3"/><circle cx="928" cy="235" r="3"/></g>
+<g fill="#7c95ae"><circle cx="1145" cy="64" r="1.5"/><circle cx="846" cy="281" r="1.3"/><circle cx="1104" cy="92" r="1"/><circle cx="887" cy="191" r="1"/></g>
+<text x="869" y="76" fill="#b2c9da" font-size="10" letter-spacing="2">IDEAS</text>
+<text x="1067" y="112" fill="#b2c9da" font-size="10" letter-spacing="2">BUILD</text>
+<text x="1099" y="276" fill="#b2c9da" font-size="10" letter-spacing="2">REFINE</text>
+<text x="874" y="258" fill="#b2c9da" font-size="10" letter-spacing="2">SHARE</text>
+
+</svg>
